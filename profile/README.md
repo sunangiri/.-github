@@ -42,7 +42,7 @@ karena mayoritas repository bersifat privat.
 3. [java android absensi perpustakaan.](https://github.com/sunangiri/android-absensi-perpustakaan)
 4. [java aplikasi android search book.](https://github.com/sunangiri/aplikasi-android-search-book)
 
-### Kumpulan Skripsi Tugas Akhir
+### Kumpulan Skripsi Tugas Akhir.
 1. [Skripsi Teknik Informatika.](https://github.com/sunangiri/Skripsi-Teknik-Informatika)
 2. [Skripsi Teknik Komputer.](https://github.com/sunangiri/Skripsi-Teknik-Komputer)
 3. [Skripsi Sistem Komputer.](https://github.com/sunangiri/Skripsi-Sistem-Komputer)
